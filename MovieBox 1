@@ -3,5 +3,5 @@
   "latestVersionName": "1.1.0.8.8.8.8",
   "updateUrl": "https://powermodapks.com/moviebox/",
   "releaseNotes": "• New features added!\n• Performance improvements.\n• Bug fixes and stability enhancements.",
-  "forceUpdate": false
+  "forceUpdate": true
 }
