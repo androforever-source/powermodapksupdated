@@ -1,11 +1,6 @@
-{
-  "show": true,
-  "version_name": "4.0.03.1028.03",
-  "force_update": false,
-  "title": "New Update Available!",
-  "message": "Update to the latest version to enjoy new features and improvements.",
-  "button_text": "UPDATE NOW",
-  "cancel_button_text": "CLOSE",
-  "action_url": "https://powermodapks.com/moviebox/",
-  "theme": "dark"
+"latestVersionCode": 266666666,
+  "latestVersionName": "4.0.04.1119.02",
+  "updateUrl": "https://powermodapks.com/moviebox/",
+  "releaseNotes": "• New features added!\n• Performance improvements.\n• Bug fixes and stability enhancements.",
+  "forceUpdate": True
 }
